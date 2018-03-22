@@ -1,0 +1,19 @@
+{
+  "name": "stock-streaker",
+  "version": "1.0.0",
+  "description": "Testing the intuition of day traders over the course of a month.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacksondonovan/Stock-Streaker.git"
+  },
+  "author": "Jackson Donovan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacksondonovan/Stock-Streaker/issues"
+  },
+  "homepage": "https://github.com/jacksondonovan/Stock-Streaker#readme"
+}
