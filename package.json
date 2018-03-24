@@ -20,7 +20,8 @@
   "homepage": "https://github.com/jacksondonovan/Stock-Streaker#readme",
   "dependencies": {
     "react": "^15.2.1",
-    "react-dom": "^15.2.1"
+    "react-dom": "^15.2.1",
+    "react-router-dom": "^4.2.2"
   },
   "devDependencies": {
     "babel-loader": "^6.2.4",
